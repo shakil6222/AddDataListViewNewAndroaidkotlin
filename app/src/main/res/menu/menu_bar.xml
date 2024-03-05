@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:title="Add Image"
+        android:id="@+id/addImage_Menu"
+        android:icon="@drawable/baseline_add_circle_24"/>
+    <item
+        android:title="Update"
+       android:id="@+id/update_Menu"/>
+    <item
+        android:title="Delete"
+        android:id="@+id/delete_Menu"/>
+
+</menu>

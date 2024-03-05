@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/newStudent_menu"
+        android:title="New Student"/>
+    <item
+        android:title="Student Details"
+        android:id="@+id/details_menu"/>
+    <item
+        android:title="New Batch"/>
+    <item
+        android:title="Profile"
+        />
+    <item
+       android:title="Setting">
+        <menu>
+            <item
+                android:title="Add Student"
+                android:id="@+id/add_Student_menu"/>
+            <item
+                android:title="delete Student"
+                android:id="@+id/delete_menu"/>
+            <item
+                android:title="Update details"
+                android:id="@+id/update_menu"/>
+        </menu>
+    </item>
+
+
+</menu>
